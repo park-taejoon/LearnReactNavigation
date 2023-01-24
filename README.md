@@ -14,5 +14,7 @@ yarn add react-native-screens react-native-safe-area-context
 
 # install after
 
+```
 cd ios
 pod install
+```
